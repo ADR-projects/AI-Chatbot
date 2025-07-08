@@ -1,4 +1,4 @@
-## ☕️ ChillChatBot
+## ☕️ AI-Chatbot
 
 A cozy conversational companion powered by Gemini 2.5 Flash.  
 
