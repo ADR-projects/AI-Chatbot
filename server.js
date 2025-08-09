@@ -15,7 +15,7 @@ app.use(express.json());
 const genAI = new GoogleGenAI({
     apiKey: process.env.API_KEY,
 });
-
+console.log("read .env file before using api key");
 app.post('/gemini', async (req, res) => {
     console.log(req.body.history);
     console.log(req.body.message);
@@ -61,3 +61,4 @@ app.post('/gemini', async (req, res) => {
 app.listen(PORT, () => {
     console.log(`Listening on port ${PORT}`);
 });
+
