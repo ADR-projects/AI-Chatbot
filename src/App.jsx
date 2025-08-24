@@ -103,7 +103,7 @@ function App() {
 
           </div>
 
-          {/* Surprise Me button */}
+          {/* Surprise Me button!! */}
           <button
             type="button"
             className="surprise-btn"
@@ -128,7 +128,7 @@ function App() {
               </div>
             </div>
 
-            <div className="overlay-body">~
+            <div className="overlay-body">
               <p>-This ChatBot uses the Gemini 2.5 Flash model.</p>
               <p>
                 -Developed by ADR<br />

@@ -1,4 +1,5 @@
 import './App.css';
+import Markdown from 'react-markdown';
 
 function ChatMsg({ chatHistory }) {
   return (
@@ -13,7 +14,7 @@ function ChatMsg({ chatHistory }) {
           </div>
           <div className="message-content">
             <div className="message-bubble">
-              <p>{chatItem.parts[0]?.text}</p>
+              <p><Markdown>{chatItem.parts[0]?.text}</Markdown></p>
             </div>
             <div className="message-time">
               {new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}

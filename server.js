@@ -2,7 +2,7 @@ import express from 'express'; //ESM (type: module)
 import cors from 'cors';
 import dotenv from 'dotenv';
 import { GoogleGenAI } from '@google/genai';
-//not using commonJs
+// not using commonJs
 dotenv.config(); //load env var
 
 const PORT = 5000;
