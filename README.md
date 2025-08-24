@@ -21,6 +21,4 @@ A cozy conversational companion powered by Gemini 2.5 Flash.
 ```bash
 npm install
 npm run dev
-
-```bash
 npm run start:backend
