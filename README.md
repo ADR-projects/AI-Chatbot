@@ -5,8 +5,8 @@ A cozy conversational companion powered by Gemini 2.5 Flash.
 ---
 
 <p align="center">
-  <img src="public/chat.png" alt="Chat Screenshot" width="500"/>
-  <img src="public/about.png" alt="Chat Screenshot" width="500"/>
+  <img src="public/chat.png" alt="Chat Screenshot" height="500"/>
+  <img src="public/about.png" alt="Chat Screenshot" height="500"/>
 </p>
 
 ### 🔧 Stack
