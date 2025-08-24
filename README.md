@@ -4,6 +4,11 @@ A cozy conversational companion powered by Gemini 2.5 Flash.
 
 ---
 
+<p align="center">
+  <img src="public/chat.png" alt="Chat Screenshot" width="500"/>
+  <img src="public/about.png" alt="Chat Screenshot" width="500"/>
+</p>
+
 ### 🔧 Stack
 - Frontend: Vite + React
 - Backend: JavaScript
@@ -12,14 +17,10 @@ A cozy conversational companion powered by Gemini 2.5 Flash.
 
 ---
 
-### 🎨 Interface
-- Smooth, simple, and chill UI  
-- Designed to keep things lowkey and friendly  
-- Just chat and relax.
-
----
-
 ### 🚀 Running the Bot
 ```bash
 npm install
 npm run dev
+
+```bash
+npm run start:backend
