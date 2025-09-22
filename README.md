@@ -1,15 +1,14 @@
-## ☕️ AI-Chatbot
+## Cozy AI-Chatbot
 
 A cozy conversational companion powered by Gemini 2.5 Flash.  
 
 ---
 
 <p align="center">
-  <img src="public/chat.png" alt="Chat Screenshot" height="500"/>
-  <img src="public/about.png" alt="Chat Screenshot" height="500"/>
+  <img src="public/chat.png" alt="Chat Screenshot" height="450" width="450"/>
 </p>
 
-### 🔧 Stack
+### Stack
 - Frontend: Vite + React
 - Backend: JavaScript
 - AI: Gemini 2.5 Flash via API
@@ -17,7 +16,7 @@ A cozy conversational companion powered by Gemini 2.5 Flash.
 
 ---
 
-### 🚀 Running the Bot
+### Running the Bot
 ```bash
 npm install
 npm run dev
