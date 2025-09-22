@@ -16,7 +16,10 @@ A cozy conversational companion powered by Gemini 2.5 Flash.
 
 ---
 
-### Running the Bot
+### How to run
+First get your own API key from [here](https://ai.google.dev/gemini-api/docs)
+Next, clone this Repository
+Then paste it in a .env file into a variable named API_KEY, and run:
 ```bash
 npm install
 npm run dev
